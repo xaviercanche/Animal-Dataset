@@ -3,6 +3,6 @@ Dataset for X. Bai, W. Liu, and Z. Tu. Integrating contour and skeleton for shap
 
 **Link:** https://www.vlrlab.net/admin/uploads/avatars/Integrating_Contour_and_Skeleton_for_Shape_Classification.pdf
 
-##Examples:
+## Examples:
 
 <img src="proyecto_k.png" width="800">
